@@ -1,4 +1,6 @@
 {
+  "name": "todo",
+  "private": true,
   "scripts": {
     "start": "foreman start",
     "dev": "npm run start"
